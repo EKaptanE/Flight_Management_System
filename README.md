@@ -32,13 +32,13 @@ Projeyi yerel makinenizde çalıştırmak için şu adımları izleyebilirsiniz:
    ```bash
    git clone https://github.com/EKaptanE/Flight_Management_System.git
    cd Flight_Management_System
-2. **Derleme:**
+2. **Derleyin:**
    ```bash
    g++ main.cpp -o flight_system
-3. **Çalıştırma:**
+3. **Çalıştırın:**
    ```bash
    ./flight_system
-**##📋 Örnek Kullanım Senaryosu**
+## 📋 Örnek Kullanım Senaryosu
 Program başlatıldığında karşınıza çıkan menüden seçim yaparak işlemleri gerçekleştirebilirsiniz:
 1. Yeni Uçuş Ekle
 2. Uçuşları Listele
@@ -46,7 +46,7 @@ Program başlatıldığında karşınıza çıkan menüden seçim yaparak işlem
 4. Rezervasyon İptal Et
 5. Çıkış
 
-**##🤝 Katkıda Bulunma**
+## 🤝 Katkıda Bulunma
 Bu projeyi Fork'layın.
 
 Yeni bir Feature Branch oluşturun (git checkout -b feature/YeniOzellik).
@@ -57,4 +57,8 @@ Branch'inizi Push edin (git push origin feature/YeniOzellik).
 
 Bir Pull Request açın.
 
-Geliştirici: EKaptanE
+---
+
+**Geliştirici:** [EKaptanE](https://www.google.com/search?q=https://github.com/EKaptanE)
+
+---
